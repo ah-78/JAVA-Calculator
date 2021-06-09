@@ -4,7 +4,7 @@
 The Project is a simple calculator developed in Java using swing to develop User Interface.
 The Calculator can perform all the Basic Mathematical Functions.
 
-#Installation
+# Installation
 You can simple run the program using any IDE such as IntelliJ Idea
 
 
